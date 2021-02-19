@@ -4,5 +4,14 @@
   "main": "index.js",
   "repository": "git@github.com:wenealves10/multi-databases-pg-mongo.git",
   "author": "Wene Alves de Oliveira <weneplay5@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "type": "module",
+  "devDependencies": {
+    "eslint": "^7.20.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-config-prettier": "^7.2.0",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-prettier": "^3.3.1",
+    "prettier": "^2.2.1"
+  }
 }
