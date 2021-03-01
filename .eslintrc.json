@@ -19,6 +19,9 @@
     "prettier"
   ],
   "rules": {
-    "prettier/prettier": "error"
+    "prettier/prettier": "error",
+    "no-unused-vars": "off",
+    "constructor-super": "off",
+    "no-this-before-super": "off"
   }
 }
